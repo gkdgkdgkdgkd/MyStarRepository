@@ -83,7 +83,7 @@
 
 `Java`技术书籍大全。目录：
 
-![image-20220604155048290](/home/xf/Desktop/MyStarRepository/img/2.png)
+![](./img/2.png)
 
 标签：`Java`、技术书籍 
 
@@ -431,7 +431,7 @@ Call<List<Repo>> repos = service.listRepos("octocat");
 
 比如笔者的如下所示：
 
-![image-20220604234157910](/home/xf/Desktop/MyStarRepository/img/3.png)
+![image-20220604234157910](./img/3.png)
 
 标签：简历
 
@@ -469,6 +469,6 @@ Call<List<Repo>> repos = service.listRepos("octocat");
 
 提问的智慧，原文由知名`Hacker` `Eric S. Raymond`所撰写，教你如何正确的提出技术问题并获得你满意的答案。
 
-![image-20220605001509412](/home/xf/Desktop/MyStarRepository/img/4.png)
+![image-20220605001509412](./img/4.png)
 
 标签：提问、如何提问
