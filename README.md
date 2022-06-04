@@ -12,9 +12,7 @@
 
 ## [YouCompleteMe](https://github.com/ycm-core/YouCompleteMe)
 
-![](https://img.shields.io/github/stars/ycm-core/YouCompleteMe?style=for-the-badge)![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)![](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
-
-
+![](https://img.shields.io/github/stars/ycm-core/YouCompleteMe?style=for-the-badge) ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
 
 一个`Vim`的多语言代码补全引擎。
 
@@ -31,7 +29,7 @@
 
 ## [GM_script](https://github.com/langren1353/GM_script)
 
-![](https://img.shields.io/github/stars/langren1353/GM_script?style=for-the-badge)![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![](https://img.shields.io/github/stars/langren1353/GM_script?style=for-the-badge)![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
 
 `AC-baidu`，一个可以优化百度谷歌搜索的脚本，功能包括：
 
@@ -49,7 +47,7 @@
 
 ## **[vimium-c](https://github.com/gdh1995/vimium-c)**
 
-![](https://img.shields.io/github/stars/gdh1995/vimium-c?style=for-the-badge)![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![](https://img.shields.io/github/stars/gdh1995/vimium-c?style=for-the-badge)![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) 
 
 [Vimium](https://github.com/philc/vimium)（以操作`Vim`的方式操作浏览器）的一款修改版，在原版基础上添加了完整的中文支持以及全局快捷键等功能。
 
@@ -79,6 +77,16 @@
 
 标签：书籍、学习、免费、多语言
 
+## [awesome-java-books](https://github.com/sorenduan/awesome-java-books)
+
+![](https://img.shields.io/github/stars/sorenduan/awesome-java-books?style=for-the-badge)
+
+`Java`技术书籍大全。目录：
+
+![image-20220604155048290](/home/xf/Desktop/MyStarRepository/img/2.png)
+
+标签：`Java`、技术书籍 
+
 # 4 Spring Boot类
 
 ## 分类说明
@@ -87,7 +95,7 @@
 
 ## [SpringBoot-Learning](https://github.com/dyc87112/SpringBoot-Learning)
 
-![](https://img.shields.io/github/stars/dyc87112/SpringBoot-Learning?style=for-the-badge)![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/github/stars/dyc87112/SpringBoot-Learning?style=for-the-badge) ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 `Spring Boot`基础教程，从2016年连载至今，包括`1.x`以及`2.x`版本。
 
@@ -95,7 +103,7 @@
 
 ## [springboot-learning-example](https://github.com/JeffLi1993/springboot-learning-example)
 
-![](https://img.shields.io/github/stars/JeffLi1993/springboot-learning-example?style=for-the-badge)![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/github/stars/JeffLi1993/springboot-learning-example?style=for-the-badge) ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 `Spring Boot 2.x`系列教程。
 
@@ -103,7 +111,7 @@
 
 ## [springBoot](https://github.com/527515025/springBoot)
 
-![](https://img.shields.io/github/stars/527515025/springBoot?style=for-the-badge)![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![](https://img.shields.io/github/stars/527515025/springBoot?style=for-the-badge) ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
 
 `SpringBoot`框架与其它组件结合如 `JPA`、`MyBatis`、`WebSocket`、`Spring Security`、`Shiro`、`cache`等。
 
@@ -249,6 +257,14 @@ V部落是一个多用户博客管理平台，采用`Vue`+`SpringBoot`开发。
 
 标签：播放器、音乐
 
+## [maven-shade-plugin](https://github.com/apache/maven-shade-plugin)
+
+![](https://img.shields.io/github/stars/apache/maven-shade-plugin?style=for-the-badge) ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+`Apache Maven Shade`插件，用于打包`Maven`项目。
+
+标签：`Maven`、打包
+
 # 9 美化类
 
 ## 分类说明
@@ -266,3 +282,71 @@ V部落是一个多用户博客管理平台，采用`Vue`+`SpringBoot`开发。
 ![](./img/1.png)
 
 标签：博客园、主题、美化
+
+## [powerlevel10k](https://github.com/romkatv/powerlevel10k)
+
+![](https://img.shields.io/github/stars/romkatv/powerlevel10k?style=for-the-badge)![](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+`zsh`的一个美化主题。
+
+![Powerlevel10k](https://raw.githubusercontent.com/romkatv/powerlevel10k-media/master/prompt-styles-high-contrast.png)
+
+可以配置的选项非常多，同时也提供了`TUI`版本简易配置命令`p10k configure`。
+
+标签：终端、`zsh`、美化、主题
+
+## [gridea-theme-breek](https://github.com/lmm214/gridea-theme-breek)
+
+![](https://img.shields.io/github/stars/lmm214/gridea-theme-breek?style=for-the-badge)![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+`Gridea`主题，笔者曾经用个，换个模糊背景就可以很好看了。
+
+标签：`Gridea`、主题、美化
+
+# 10 Git类
+
+## 分类说明
+
+该分类是`Git`的一些相关学习资源或工具。
+
+## [learnGitBranching](https://github.com/pcottle/learnGitBranching)
+
+![](https://img.shields.io/github/stars/pcottle/learnGitBranching?style=for-the-badge)![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+可视化地学习`Git`的分支。
+
+![demo-gif](https://user-images.githubusercontent.com/6324814/108740487-02c3c400-7536-11eb-9dd1-53275cdf76fb.gif)
+
+[在线地址]()。
+
+标签：`Git`、分支
+
+# 11 软件类
+
+## 分类说明
+
+此分类以软件为主。
+
+## [lx-music-desktop](https://github.com/lyswhut/lx-music-desktop)
+
+![](https://img.shields.io/github/stars/lyswhut/lx-music-desktop?style=for-the-badge)![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)![](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+
+洛雪音乐助手桌面版，一个基于`Electron`+`Vue`开发的音乐软件，支持`Mac`、`Win`、`Linux`。
+
+![lx-music UI](https://github.com/lyswhut/lx-music-desktop/raw/master/doc/images/app.png)
+
+标签：音乐、`Electron`、`Vue`
+
+## [CopyTranslator](https://github.com/CopyTranslator/CopyTranslator)
+
+![](https://img.shields.io/github/stars/CopyTranslator/CopyTranslator?style=for-the-badge) ![](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D) ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+复制即翻译的外文辅助阅读翻译解决方案。
+
+![img](https://camo.githubusercontent.com/ff2573dcc00dcf1e6bad1a4d268f2efb3e5efd8f773a4b67276ea369cd06af6a/68747470733a2f2f73312e617831782e636f6d2f323031382f30392f31332f6945694952782e706e67)
+
+![img](https://camo.githubusercontent.com/58cbf0060213415a6c1aaa643db5f2461ad2ad9bd8d26b41a673a33e8755778d/68747470733a2f2f73312e617831782e636f6d2f323031382f30392f31332f69456937514b2e706e67)
+
+![68747470733a2f2f73312e617831782e636f6d2f323031382f31312f33302f466d724e46532e676966](https://camo.githubusercontent.com/fd39fcd1241c6e66a13c5f083bdc6bf4ce0386f264c331a598437a179acc2b69/68747470733a2f2f73312e617831782e636f6d2f323031382f31312f33302f466d724e46532e676966)
+
+标签：翻译、复制
