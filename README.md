@@ -29,7 +29,7 @@
 
 ## [GM_script](https://github.com/langren1353/GM_script)
 
-![](https://img.shields.io/github/stars/langren1353/GM_script?style=for-the-badge)![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
+![](https://img.shields.io/github/stars/langren1353/GM_script?style=for-the-badge) ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
 
 `AC-baidu`，一个可以优化百度谷歌搜索的脚本，功能包括：
 
@@ -47,7 +47,7 @@
 
 ## **[vimium-c](https://github.com/gdh1995/vimium-c)**
 
-![](https://img.shields.io/github/stars/gdh1995/vimium-c?style=for-the-badge)![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) 
+![](https://img.shields.io/github/stars/gdh1995/vimium-c?style=for-the-badge) ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) 
 
 [Vimium](https://github.com/philc/vimium)（以操作`Vim`的方式操作浏览器）的一款修改版，在原版基础上添加了完整的中文支持以及全局快捷键等功能。
 
@@ -119,7 +119,7 @@
 
 ## [spring-boot-examples](https://github.com/ityouknow/spring-boot-examples)
 
-![](https://img.shields.io/github/stars/ityouknow/spring-boot-examples?style=for-the-badge)![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![](https://img.shields.io/github/stars/ityouknow/spring-boot-examples?style=for-the-badge) ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 `Spring Boot`学习示例。
 
@@ -133,7 +133,7 @@
 
 ## [mall](https://github.com/macrozheng/mall)
 
-![](https://img.shields.io/github/stars/macrozheng/mall?style=for-the-badge)![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)![](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)![](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)![](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)![](https://img.shields.io/badge/redis-CC0000.svg?&style=for-the-badge&logo=redis&logoColor=white)![](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)![](https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)![](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)![](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white)![](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white)![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)![](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white)![](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
+![](https://img.shields.io/github/stars/macrozheng/mall?style=for-the-badge)  ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D) ![](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) ![](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot) ![](https://img.shields.io/badge/redis-CC0000.svg?&style=for-the-badge&logo=redis&logoColor=white) ![](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white) ![](https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white) ![](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white) ![](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white) ![](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white) ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white) ![](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
 
 `mall`是一套电商系统，包括前台商城系统以及后台管理系统。
 
@@ -165,7 +165,7 @@
 
 ## [VBlog](https://github.com/lenve/VBlog)
 
-![](https://img.shields.io/github/stars/lenve/VBlog?style=for-the-badge)![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)![](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)![](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)![](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white)![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![](https://img.shields.io/github/stars/lenve/VBlog?style=for-the-badge) ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D) ![](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot) ![](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white) ![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 V部落是一个多用户博客管理平台，采用`Vue`+`SpringBoot`开发。
 
@@ -191,13 +191,11 @@ V部落是一个多用户博客管理平台，采用`Vue`+`SpringBoot`开发。
 
 ## [BullshitGenerator](https://github.com/menzi11/BullshitGenerator)
 
-![](https://img.shields.io/github/stars/menzi11/BullshitGenerator?style=for-the-badge)![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/github/stars/menzi11/BullshitGenerator?style=for-the-badge) ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 狗屁不通文章生成器。[在线浏览](https://suulnnka.github.io/BullshitGenerator/index.html)。
 
 标签：文章、生成器、狗屁不通
-
-
 
 # 7 awesome类
 
@@ -230,7 +228,7 @@ V部落是一个多用户博客管理平台，采用`Vue`+`SpringBoot`开发。
 
 ## [okhttp](https://github.com/square/okhttp)
 
-![](https://img.shields.io/github/stars/square/okhttp?style=for-the-badge)![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)![](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+![](https://img.shields.io/github/stars/square/okhttp?style=for-the-badge) ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 
 一个`HTTP`客户端，功能包括：
 
@@ -243,7 +241,7 @@ V部落是一个多用户博客管理平台，采用`Vue`+`SpringBoot`开发。
 
 ## [APlayer](https://github.com/DIYgod/APlayer)
 
-![](https://img.shields.io/github/stars/DIYgod/APlayer?style=for-the-badge)![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![](https://img.shields.io/github/stars/DIYgod/APlayer?style=for-the-badge) ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 一个漂亮的`H5`音乐播放器，支持格式包括：
 
@@ -265,6 +263,64 @@ V部落是一个多用户博客管理平台，采用`Vue`+`SpringBoot`开发。
 
 标签：`Maven`、打包
 
+## [element-plus](https://github.com/element-plus/element-plus)
+
+![](https://img.shields.io/github/stars/element-plus/element-plus?style=for-the-badge) ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+
+`element`团队出品的一个面向设计师以及开发者的组件库，设计原则：
+
+- 一致：与现实生活一致、在界面中一致
+- 反馈：控制反阔、页面反阔
+- 效率：简化流程、清晰明确、帮助用户识别
+- 可控：用户决策、结果可控
+
+组件包括：
+
+- 按钮
+- 布局容器
+- 表单
+- 输入框
+- 单选框/多选框
+- 滑块
+- 日历
+- 走马灯
+- 分页
+
+等等。
+
+标签：`Vue3`、`UI`、组件库
+
+## [retrofit](https://github.com/square/retrofit)
+
+![](https://img.shields.io/github/stars/square/retrofit?style=for-the-badge) ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+为安卓和`JVM`打造的一个类型安全的`HTTP`客户端。
+
+代码示例：
+
+```java
+//定义接口
+public interface GitHubService {
+  @GET("users/{user}/repos")
+  Call<List<Repo>> listRepos(@Path("user") String user);
+}
+
+//生成Retrofit
+Retrofit retrofit = new Retrofit.Builder()
+    .baseUrl("https://api.github.com/")
+    .build();
+
+//生成实例化接口
+GitHubService service = retrofit.create(GitHubService.class);
+
+//调用
+Call<List<Repo>> repos = service.listRepos("octocat");
+```
+
+
+
+标签：`HTTP`、客户端、类型安全
+
 # 9 美化类
 
 ## 分类说明
@@ -273,7 +329,7 @@ V部落是一个多用户博客管理平台，采用`Vue`+`SpringBoot`开发。
 
 ## **[Cnblogs-Theme-SimpleMemory](https://github.com/BNDong/Cnblogs-Theme-SimpleMemory)**
 
-![](https://img.shields.io/github/stars/BNDong/Cnblogs-Theme-SimpleMemory?style=for-the-badge)![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/github/stars/BNDong/Cnblogs-Theme-SimpleMemory?style=for-the-badge) ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 一个博客园美化主题，以阅读为核心，提高用户体验。
 
@@ -285,7 +341,7 @@ V部落是一个多用户博客管理平台，采用`Vue`+`SpringBoot`开发。
 
 ## [powerlevel10k](https://github.com/romkatv/powerlevel10k)
 
-![](https://img.shields.io/github/stars/romkatv/powerlevel10k?style=for-the-badge)![](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![](https://img.shields.io/github/stars/romkatv/powerlevel10k?style=for-the-badge) ![](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white) ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 `zsh`的一个美化主题。
 
@@ -297,7 +353,7 @@ V部落是一个多用户博客管理平台，采用`Vue`+`SpringBoot`开发。
 
 ## [gridea-theme-breek](https://github.com/lmm214/gridea-theme-breek)
 
-![](https://img.shields.io/github/stars/lmm214/gridea-theme-breek?style=for-the-badge)![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![](https://img.shields.io/github/stars/lmm214/gridea-theme-breek?style=for-the-badge) ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 `Gridea`主题，笔者曾经用个，换个模糊背景就可以很好看了。
 
@@ -311,7 +367,7 @@ V部落是一个多用户博客管理平台，采用`Vue`+`SpringBoot`开发。
 
 ## [learnGitBranching](https://github.com/pcottle/learnGitBranching)
 
-![](https://img.shields.io/github/stars/pcottle/learnGitBranching?style=for-the-badge)![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![](https://img.shields.io/github/stars/pcottle/learnGitBranching?style=for-the-badge) ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 可视化地学习`Git`的分支。
 
@@ -329,7 +385,7 @@ V部落是一个多用户博客管理平台，采用`Vue`+`SpringBoot`开发。
 
 ## [lx-music-desktop](https://github.com/lyswhut/lx-music-desktop)
 
-![](https://img.shields.io/github/stars/lyswhut/lx-music-desktop?style=for-the-badge)![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)![](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![](https://img.shields.io/github/stars/lyswhut/lx-music-desktop?style=for-the-badge) ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 
 洛雪音乐助手桌面版，一个基于`Electron`+`Vue`开发的音乐软件，支持`Mac`、`Win`、`Linux`。
 
@@ -350,3 +406,69 @@ V部落是一个多用户博客管理平台，采用`Vue`+`SpringBoot`开发。
 ![68747470733a2f2f73312e617831782e636f6d2f323031382f31312f33302f466d724e46532e676966](https://camo.githubusercontent.com/fd39fcd1241c6e66a13c5f083bdc6bf4ce0386f264c331a598437a179acc2b69/68747470733a2f2f73312e617831782e636f6d2f323031382f31312f33302f466d724e46532e676966)
 
 标签：翻译、复制
+
+## 	[peek](https://github.com/phw/peek)
+
+![](https://img.shields.io/github/stars/phw/peek?style=for-the-badge) 
+
+一个`GIF`记录软件。
+
+![Peek recording itself](https://raw.githubusercontent.com/phw/peek/master/data/screenshots/peek-recording-itself.gif)
+
+标签：`GIF`、动图
+
+# 12 简历类
+
+## 分类说明
+
+该分类是是简历相关的分类。
+
+## [resume.github.com](https://github.com/resume/resume.github.com)
+
+![](https://img.shields.io/github/stars/resume/resume.github.com?style=for-the-badge) ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+使用`Github`个人用户信息生成简历的网站。[在线试用](https://resume.github.io/)。
+
+比如笔者的如下所示：
+
+![image-20220604234157910](/home/xf/Desktop/MyStarRepository/img/3.png)
+
+标签：简历
+
+# 13 配置文件类
+
+## 分类说明
+
+此分类以各种类型的配置文件为主。
+
+## [.tmux](https://github.com/gpakosz/.tmux)
+
+![](https://img.shields.io/github/stars/gpakosz/.tmux?style=for-the-badge) 
+
+多用途的`tmux`配置文件示例，特点：
+
+- `C-a`（`Ctrl+a`）为前缀，代替默认的`C-b`（`Ctrl+b`）
+- 通过`<prefix> +`可以在新窗口最大化任意面板
+- `SSH/Mosh`的用户名以及主机信息会显示在状态栏
+- 鼠标模式可通过`<prefix> m`切换
+- 支持笔记本的电量显示
+
+等等。
+
+标签：配置、`tmux`
+
+# 14 思考类
+
+## 分类说明
+
+此分类不以技术为主，主要是一些人生的思考之类的。
+
+## [How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way)
+
+![](https://img.shields.io/github/stars/ryanhanwu/How-To-Ask-Questions-The-Smart-Way?style=for-the-badge) ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+提问的智慧，原文由知名`Hacker` `Eric S. Raymond`所撰写，教你如何正确的提出技术问题并获得你满意的答案。
+
+![image-20220605001509412](/home/xf/Desktop/MyStarRepository/img/4.png)
+
+标签：提问、如何提问
