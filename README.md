@@ -125,6 +125,18 @@
 
 标签：`Spring Boot`
 
+## [springboot-guide](https://github.com/CodingDocs/springboot-guide)
+
+![](https://img.shields.io/github/stars/CodingDocs/springboot-guide?style=for-the-badge) ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+`SpringBoot 2.0+`从入门到实战。
+
+![img](https://camo.githubusercontent.com/f53ba736fdec0f85cee6d8463aad7150fe8f8b2c3bff0ded0717bebdb2f1aafa/68747470733a2f2f6d792d626c6f672d746f2d7573652e6f73732d636e2d6265696a696e672e616c6979756e63732e636f6d2f323031392d372f737072696e672d626f6f742d67756964652e706e67)
+
+~~Logo非常地皮啊~~
+
+标签：`Spring Boot`
+
 # 5 项目/系统类
 
 ## 分类说明
@@ -183,6 +195,20 @@ V部落是一个多用户博客管理平台，采用`Vue`+`SpringBoot`开发。
 
 标签：博客、博客平台、多用户
 
+## [miaosha](https://github.com/qiurunze123/miaosha)
+
+![](https://img.shields.io/github/stars/qiurunze123/miaosha?style=for-the-badge) ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+秒杀系统设计与架构。
+
+![整体流程](https://raw.githubusercontent.com/qiurunze123/imageall/master/miaosha.png)
+
+![整体流程](https://raw.githubusercontent.com/qiurunze123/imageall/master/miaoshafuture.png)
+
+![整体流程](https://raw.githubusercontent.com/qiurunze123/imageall/master/miaoshasql.png)
+
+标签：秒杀
+
 # 6 娱乐类
 
 ## 分类说明
@@ -196,6 +222,28 @@ V部落是一个多用户博客管理平台，采用`Vue`+`SpringBoot`开发。
 狗屁不通文章生成器。[在线浏览](https://suulnnka.github.io/BullshitGenerator/index.html)。
 
 标签：文章、生成器、狗屁不通
+
+## [1s](https://github.com/justjavac/1s)
+
+![](https://img.shields.io/github/stars/justjavac/1s?style=for-the-badge)
+
+有些网站`+1s`的时候，会有意想不到的奇效，暂时收录的网站包括：
+
+- `Github`
+- `Youtube`
+- `Tiktok`
+
+![](./img/6.png)
+
+## [logoly](https://github.com/bestony/logoly)
+
+![](https://img.shields.io/github/stars/bestony/logoly?style=for-the-badge) ![](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D) ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+某某`Logo`样式生成器。
+
+![img](https://camo.githubusercontent.com/628ff200bde4763aaa94fb25bece74d3429ed90d1fc3af0ce8ddee6a039cb7f8/68747470733a2f2f692e6c6f6c692e6e65742f323031392f30332f32342f356339366530326539376166662e706e67)
+
+标签：`logo`、生成
 
 # 7 awesome类
 
@@ -219,6 +267,26 @@ V部落是一个多用户博客管理平台，采用`Vue`+`SpringBoot`开发。
 等等。
 
 标签：开源项目、合集
+
+## [Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software)
+
+![](https://img.shields.io/github/stars/luong-komorebi/Awesome-Linux-Software?style=for-the-badge) ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+
+`Linux`软件合集，分类包括：
+
+- 音频
+- 电子书
+- 游戏
+- 图形
+- 办公
+- 代理
+- 安全
+
+等等，种类非常齐全。
+
+标签：`Linux`、软件
+
+
 
 # 8 库类
 
@@ -321,6 +389,60 @@ Call<List<Repo>> repos = service.listRepos("octocat");
 
 标签：`HTTP`、客户端、类型安全
 
+## [Anti-recall](https://github.com/JasonQS/Anti-recall)
+
+![](https://img.shields.io/github/stars/JasonQS/Anti-recall?style=for-the-badge) ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+安卓免`root`防撤回神器，可惜不再开源 。
+
+![](./img/5.png)
+
+标签：免`root`、防撤回
+
+## [EasyOCR](https://github.com/JaidedAI/EasyOCR)
+
+![](https://img.shields.io/github/stars/JaidedAI/EasyOCR?style=for-the-badge) ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+
+`OCR`工具，支持通过`pip`安装。
+
+示例代码：
+
+```python
+import easyocr
+reader = easyocr.Reader(['ch_sim','en']) # this needs to run only once to load the model into memory
+result = reader.readtext('chinese.jpg')
+
+# 输出
+[([[189, 75], [469, 75], [469, 165], [189, 165]], '愚园路', 0.3754989504814148),
+ ([[86, 80], [134, 80], [134, 128], [86, 128]], '西', 0.40452659130096436),
+ ([[517, 81], [565, 81], [565, 123], [517, 123]], '东', 0.9989598989486694),
+ ([[78, 126], [136, 126], [136, 156], [78, 156]], '315', 0.8125889301300049),
+ ([[514, 126], [574, 126], [574, 156], [514, 156]], '309', 0.4971577227115631),
+ ([[226, 170], [414, 170], [414, 220], [226, 220]], 'Yuyuan Rd.', 0.8261902332305908),
+ ([[79, 173], [125, 173], [125, 213], [79, 213]], 'W', 0.9848111271858215),
+ ([[529, 173], [569, 173], [569, 213], [529, 213]], 'E', 0.8405593633651733)]
+```
+
+示例图：
+
+![example](https://github.com/JaidedAI/EasyOCR/raw/master/examples/example.png)
+
+![example2](https://github.com/JaidedAI/EasyOCR/raw/master/examples/example2.png)
+
+![example3](https://github.com/JaidedAI/EasyOCR/raw/master/examples/example3.png)
+
+标签：`OCR`、文字识别
+
+## [JustAuth](https://github.com/justauth/JustAuth)
+
+![](https://img.shields.io/github/stars/justauth/JustAuth?style=for-the-badge) ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+第三方授权登录的工具类库，集成平台：
+
+![star](https://github.com/justauth/JustAuth/raw/master/docs/media/75a3c076.png)
+
+标签：授权、登录
+
 # 9 美化类
 
 ## 分类说明
@@ -416,6 +538,37 @@ Call<List<Repo>> repos = service.listRepos("octocat");
 ![Peek recording itself](https://raw.githubusercontent.com/phw/peek/master/data/screenshots/peek-recording-itself.gif)
 
 标签：`GIF`、动图
+
+## [deskreen](https://github.com/pavlobu/deskreen)
+
+![](https://img.shields.io/github/stars/pavlobu/deskreen?style=for-the-badge) ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+将任何设备通过浏览器投屏在电脑上的软件。架构图：
+
+![high-level-design](https://github.com/pavlobu/deskreen/raw/master/doc/architecture/deskreen-arch-pavlobu-21012021.svg)
+
+标签：投屏
+
+## [gridea](https://github.com/getgridea/gridea)
+
+![](https://img.shields.io/github/stars/getgridea/gridea?style=for-the-badge) ![](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D) ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+一个静态博客写作客户端，特性：
+
+- 支持`Markdown`
+- 支持标签分组
+- 支持自定义菜单
+- 支持`Win`、`Linux`、`Mac`
+- 支持接入`Github Pages`和`Coding Pages`
+- 支持接入`Gitalk`和`DisqusJS`评论系统
+- 支持自定义主题
+- 支持多设备同步
+
+![img](https://github.com/getgridea/gridea/raw/master/files/themes.png)
+
+标签：博客、写作、客户端
+
+
 
 # 12 简历类
 
