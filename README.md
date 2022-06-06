@@ -55,6 +55,35 @@
 
 标签：`Vimium`、插件、中文支持、`Vim`、浏览器
 
+## [croc](https://github.com/schollz/croc)
+
+![](https://img.shields.io/github/stars/schollz/croc?style=for-the-badge) ![](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+`CLI`文件传输工具，特性如下：
+
+- 支持任意两台电脑之间传输
+- 使用`PAKE`提供端到端加密
+- 允许跨平台传输
+- 支持多文件传输
+- 支持断点续传
+- 不需要本地服务器或端口转发
+- `IPv6`优先
+- 支持代理
+
+![Example](https://github.com/schollz/croc/raw/master/src/install/customization.gif)
+
+标签：文件传输
+
+## [shellcheck](https://github.com/koalaman/shellcheck)
+
+![](https://img.shields.io/github/stars/koalaman/shellcheck?style=for-the-badge) ![](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white) ![](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+`shell`静态分析工具，目标：
+
+- 对于初学者，指出语法问题
+- 对于有一定经验的使用者，指出可能导致异常行为的语义问题
+- 对于进阶使用者，指出陷阱以及可能会失败的极端情况
+
 # 3 书籍类
 
 ## 分类说明
@@ -443,6 +472,36 @@ result = reader.readtext('chinese.jpg')
 
 标签：授权、登录
 
+## [Chart.js](https://github.com/chartjs/Chart.js)
+
+![](https://img.shields.io/github/stars/chartjs/Chart.js?style=for-the-badge) ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+`HTML5`图表库，使用`<canvas>`标签。
+
+![](./img/8.png)
+
+标签：图表
+
+## [echarts](https://github.com/apache/echarts)
+
+![](https://img.shields.io/github/stars/apache/echarts?style=for-the-badge) ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+`Apache`出品的基于`Javascript`的可视化图表库。
+
+![](./img/7.png)
+
+标签：图表
+
+## [apexcharts.js](https://github.com/apexcharts/apexcharts.js)
+
+![](https://img.shields.io/github/stars/apexcharts/apexcharts.js?style=for-the-badge) ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+可交互的现代图表库。
+
+![](./img/9.png)
+
+标签：图表
+
 # 9 美化类
 
 ## 分类说明
@@ -568,7 +627,45 @@ result = reader.readtext('chinese.jpg')
 
 标签：博客、写作、客户端
 
+## [Recaf](https://github.com/Col-E/Recaf)
 
+![](https://img.shields.io/github/stars/Col-E/Recaf?style=for-the-badge) ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+一个便于使用的`Java`字节码编辑器。
+
+![screenshot of recaf](https://github.com/Col-E/Recaf/raw/master/docs/screenshots/main-anim.gif)
+
+标签：字节码、编辑器、`.class`
+
+## [YesPlayMusic](https://github.com/qier222/YesPlayMusic)
+
+![](https://img.shields.io/github/stars/qier222/YesPlayMusic?style=for-the-badge) ![](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D) ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+高颜值的第三方网易云播放器，支持`Win`、`Mac`和`Linux`。
+
+![Library](https://github.com/qier222/YesPlayMusic/raw/master/images/library.png)
+
+标签：音乐、播放器、网易云
+
+## [Ryujinx](https://github.com/Ryujinx/Ryujinx)
+
+![](https://img.shields.io/github/stars/Ryujinx/Ryujinx?style=for-the-badge) ![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+`Switch`模拟器。
+
+![img](https://raw.githubusercontent.com/Ryujinx/Ryujinx-Website/master/static/public/shell_fullsize.png)
+
+标签：`Switch`、模拟器
+
+## [yuzu](https://github.com/yuzu-emu/yuzu)
+
+![](https://img.shields.io/github/stars/yuzu-emu/yuzu?style=for-the-badge) ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+也是一个`Switch`模拟器。
+
+![](img/10.png)
+
+标签：`Switch`、模拟器
 
 # 12 简历类
 
@@ -625,3 +722,4 @@ result = reader.readtext('chinese.jpg')
 ![image-20220605001509412](./img/4.png)
 
 标签：提问、如何提问
+
