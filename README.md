@@ -84,6 +84,22 @@
 - 对于有一定经验的使用者，指出可能导致异常行为的语义问题
 - 对于进阶使用者，指出陷阱以及可能会失败的极端情况
 
+## [lsix](https://github.com/hackerb9/lsix)
+
+![](https://img.shields.io/github/stars/hackerb9/lsix?style=for-the-badge) ![](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+用于图片的"`ls`"工具，也就是直接在终端中`ls`出图片。需要终端支持`sixel`格式。
+
+![Example 1 of lsix usage](https://github.com/hackerb9/lsix/raw/master/README.md.d/example1.png)
+
+![Example 2 of lsix usage](https://github.com/hackerb9/lsix/raw/master/README.md.d/example2.png)
+
+![Example 3 of lsix usage](https://github.com/hackerb9/lsix/raw/master/README.md.d/example3.png)
+
+![Example 4 of lsix usage](https://github.com/hackerb9/lsix/raw/master/README.md.d/example4.png)
+
+标签：图片、图像、终端显示
+
 # 3 书籍类
 
 ## 分类说明
@@ -238,6 +254,28 @@ V部落是一个多用户博客管理平台，采用`Vue`+`SpringBoot`开发。
 
 标签：秒杀
 
+## **[qwerty-learner](https://github.com/Kaiyiwing/qwerty-learner)**
+
+![](https://img.shields.io/github/stars/Kaiyiwing/qwerty-learner?style=for-the-badge) ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+为键盘工作者设计的单词记忆与英语肌肉记忆锻炼的一个网站。
+
+内置词库包括：
+
+- `CET4`
+- `CET6`
+- `GMAT`
+- `GRE`
+- `IELTS`
+- `SAT`
+- `TOEFL`
+
+等等，[在线访问](https://qwerty.kaiyi.cool/)。
+
+![img](https://github.com/Kaiyiwing/qwerty-learner/raw/master/docs/Screenshot.png)
+
+标签：单词
+
 # 6 娱乐类
 
 ## 分类说明
@@ -315,7 +353,15 @@ V部落是一个多用户博客管理平台，采用`Vue`+`SpringBoot`开发。
 
 标签：`Linux`、软件
 
+## [ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes)
 
+![](https://img.shields.io/github/stars/zhaoolee/ChromeAppHeroes?style=for-the-badge) ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+`Chrome`插件英雄榜，包含了一大堆有用的`Chrome`插件。
+
+![谷粒VI设计.png](https://raw.githubusercontent.com/zhaoolee/ChromeAppHeroes/master/README/5ecd2856f287477c89c20efb7de11a9b.png)
+
+标签：插件、扩展
 
 # 8 库类
 
@@ -502,6 +548,16 @@ result = reader.readtext('chinese.jpg')
 
 标签：图表
 
+## [Sa-Token](https://github.com/dromara/Sa-Token)
+
+![](https://img.shields.io/github/stars/dromara/Sa-Token?style=for-the-badge) ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+一个轻量级的`Java`权限认证框架，主要解决：登录认证、权限认证、`Session`会话、单点登录、`OAuth2.0`、微服务网关鉴权等一系列权限相关问题。
+
+![sa-token-js](https://camo.githubusercontent.com/762f9377c1b53dc0648dfb4163848091bed3eb2ab6f1af6b5fd7e6499a98fb1f/68747470733a2f2f636f6c6f722d746573742e6f73732d636e2d71696e6764616f2e616c6979756e63732e636f6d2f73612d746f6b656e2f782f73612d746f6b656e2d6a73342e706e67)
+
+标签：权限、认证、单点登录、`OAuth2.0`、鉴权
+
 # 9 美化类
 
 ## 分类说明
@@ -667,6 +723,56 @@ result = reader.readtext('chinese.jpg')
 
 标签：`Switch`、模拟器
 
+## [Ventoy](https://github.com/ventoy/Ventoy)
+
+![](https://img.shields.io/github/stars/Ventoy/Ventoy?style=for-the-badge) ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+一个制作`USB`启动盘的工具，当需要安装系统时，只需要把镜像直接拷贝，然后在启动的时候选择`USB`启动即可，不需要烧录。
+
+![avatar](https://camo.githubusercontent.com/0280fc6415276f7940c16341aa4c484a3a7a4ba85bb0e9f71e877a01707198c6/68747470733a2f2f7777772e76656e746f792e6e65742f7374617469632f696d672f73637265656e2f73637265656e5f756566692e706e67)
+
+标签：`USB`、启动、镜像
+
+## [AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager)
+
+![](https://img.shields.io/github/stars/qishibo/AnotherRedisDesktopManager?style=for-the-badge) ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E )
+
+更快、更好、更稳定的`Redis`桌面管理客户端，兼容`Win`、`Linux`、`Mac`。
+
+![redis status dark](https://camo.githubusercontent.com/4718a2e69311b147f7f142a130325f4b8e858a95b90d15ce7b38a9d14fe24d2f/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f7169736869626f2f696d672f313633303635353834333439372d7374617475732e706e67)
+
+![redis key hash dark](https://camo.githubusercontent.com/a1903e550205cbee1c2c65d7b821eaa6f85e156c475ff52d20feab5ada787701/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f7169736869626f2f696d672f313633303635353834343535392d7374722e706e67)
+
+![redis console dark](https://camo.githubusercontent.com/ce327c01607c98b67d975e8c9167c0cc2e6c9506d7de0a44f7b5559a277c7c15/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f7169736869626f2f696d672f313633303635353834363130372d636c692e706e67)
+
+![redis exec log](https://camo.githubusercontent.com/4cc4bf394de1492e9f060585564ff4cebb8ff1a3bb92720d9569fc24800acbcc/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f7169736869626f2f696d672f313633303635353834373734302d6c6f672e706e67)
+
+标签：`Redis`、客户端
+
+## [PrettyZoo](https://github.com/vran-dev/PrettyZoo)
+
+![](https://img.shields.io/github/stars/vran-dev/PrettyZoo?style=for-the-badge) ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white0) ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+基于`Apache Curator`和`JavaFX`实现的`Zookeeper`图形客户端。
+
+![img](https://github.com/vran-dev/PrettyZoo/raw/master/release/img/main.png)
+
+![server.gif](https://github.com/vran-dev/PrettyZoo/raw/master/release/img/server.gif)
+
+![highlight.gif](https://github.com/vran-dev/PrettyZoo/raw/master/release/img/highlight.gif)
+
+![time-format.gif](https://github.com/vran-dev/PrettyZoo/raw/master/release/img/time-format.gif)
+
+![create-node.gif](https://github.com/vran-dev/PrettyZoo/raw/master/release/img/create-node.gif)
+
+![search.gif](https://github.com/vran-dev/PrettyZoo/raw/master/release/img/search.gif)
+
+![terminal.gif](https://github.com/vran-dev/PrettyZoo/raw/master/release/img/terminal.gif)
+
+![4-letter.gif](https://github.com/vran-dev/PrettyZoo/raw/master/release/img/4-letter.gif)
+
+标签：`JavaFX`、`Zookeeper`、`Apache Curator`、客户端
+
 # 12 简历类
 
 ## 分类说明
@@ -707,6 +813,14 @@ result = reader.readtext('chinese.jpg')
 
 标签：配置、`tmux`
 
+## [gitignore](https://github.com/github/gitignore)
+
+![](https://img.shields.io/github/stars/github/gitignore?style=for-the-badge) 
+
+`.gitignore`模板合集。
+
+标签：`Git`、`.gitignore`
+
 # 14 思考类
 
 ## 分类说明
@@ -722,4 +836,50 @@ result = reader.readtext('chinese.jpg')
 ![image-20220605001509412](./img/4.png)
 
 标签：提问、如何提问
+
+
+
+# 15 算法类
+
+## 分类说明
+
+此分类包含算法类相关仓库。
+
+## [leetcode](https://github.com/doocs/leetcode)
+
+![](https://img.shields.io/github/stars/doocs/leetcode?style=for-the-badge) ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324)
+
+该项目包含`LeetCode`、《剑指 Offer（第 2 版）》、《剑指 Offer（专项突击版）》、《程序员面试金典（第 6 版）》等题目的相关题解。
+
+标签：`LeetCode`、剑指Offer、程序员面试金典、算法
+
+## [Java](https://github.com/TheAlgorithms/Java)
+
+![](https://img.shields.io/github/stars/TheAlgorithms/Java?style=for-the-badge) ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+用`Java`实现所有算法。
+
+标签：算法
+
+## [java-algorithms-implementation](https://github.com/phishman3579/java-algorithms-implementation)
+
+![](https://img.shields.io/github/stars/phishman3579/java-algorithms-implementation?style=for-the-badge) ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+用`Java`实现算法与数据结构。
+
+标签：算法、数据结构
+
+# 16 安全类
+
+## 分类说明
+
+该分类包含一些安全相关的仓库。
+
+## [SecLists](https://github.com/danielmiessler/SecLists)
+
+![](https://img.shields.io/github/stars/danielmiessler/SecLists?style=for-the-badge) ![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![](https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white) ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+该仓库是包含一些常见的用户名、密码、`URL`等等，目标就是让安全测试人员去测试其中的数据去发现问题。
+
+标签：安全、用户名、密码、`webshell`、`payload`、`pattern-matching`
 
