@@ -132,11 +132,11 @@
 
 标签：`Java`、技术书籍 
 
-# 4 Spring Boot类
+# 4 Spring类
 
 ## 分类说明
 
-该分类包含`Spring Boot`的一些教程或者示例。
+该分类包含`Spring`相关的一些教程或者示例，包括`Spring Boot`、`Spring Cloud`等。
 
 ## [SpringBoot-Learning](https://github.com/dyc87112/SpringBoot-Learning)
 
@@ -181,6 +181,22 @@
 ~~Logo非常地皮啊~~
 
 标签：`Spring Boot`
+
+## [SpringCloudLearning](https://github.com/forezp/SpringCloudLearning)
+
+![](https://img.shields.io/github/stars/forezp/SpringCloudLearning?style=for-the-badge) ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+史上最简单的`Spring Cloud`教程系列的源码。
+
+标签：`Spring Cloud`
+
+## [SpringAll](https://github.com/wuyouzhuguli/SpringAll)
+
+![](https://img.shields.io/github/stars/wuyouzhuguli/SpringAll?style=for-the-badge) ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+`Spring`系列教程，包含`Spring Boot`、`Spring Boot & Shiro`、`Spring Cloud`、`Spring Boot & Spring Security & Spring Security OAuth2`。
+
+标签：`Spring Boot`、`Spring Cloud`、`Spring Security`
 
 # 5 项目/系统类
 
@@ -276,6 +292,70 @@ V部落是一个多用户博客管理平台，采用`Vue`+`SpringBoot`开发。
 
 标签：单词
 
+## [system-design-primer](https://github.com/donnemartin/system-design-primer)
+
+![](https://img.shields.io/github/stars/donnemartin/system-design-primer?style=for-the-badge) ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+系统设计入门。
+
+![img](https://github.com/donnemartin/system-design-primer/raw/master/images/jj3A5N8.png)
+
+![img](https://github.com/donnemartin/system-design-primer/raw/master/images/jrUBAF7.png)
+
+![Imgur](https://github.com/donnemartin/system-design-primer/raw/master/images/OfVllex.png)
+
+标签：系统设计
+
+## [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability)
+
+![](https://img.shields.io/github/stars/binhnguyennus/awesome-scalability?style=for-the-badge) 
+
+该仓库阐述了如何设计一个伸缩性强的系统。
+
+标签：系统、设计、伸缩性
+
+## [newbee-mall](https://github.com/newbee-ltd/newbee-mall)
+
+![](https://img.shields.io/github/stars/newbee-ltd/newbee-mall?style=for-the-badge) ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+`newbee-mall`项目是一套电商系统，包括`newbee-mall`商城系统及`newbee-mall-admin`商城后台管理系统，基于`Spring Boot 2.X`及相关技术栈开发。 
+
+![index](https://camo.githubusercontent.com/e7041bbdc5029c1039d068be3fd0108f31f064a8e51e8cf96ea92eae6735e3e9/68747470733a2f2f6e65776265652d6d616c6c2e6f73732d636e2d6265696a696e672e616c6979756e63732e636f6d2f706f737465722f70726f647563742f696e6465782d30312d323032302e676966)
+
+![index](https://camo.githubusercontent.com/031960dc57f60e5a60890d01dc34b38198a89a744e3eb19b8627762243b346fb/68747470733a2f2f6e65776265652d6d616c6c2e6f73732d636e2d6265696a696e672e616c6979756e63732e636f6d2f706f737465722f70726f647563742f696e6465782d30322e706e67)
+
+![search](https://camo.githubusercontent.com/b82fc745defab094b6ae08174e751a882d2555cd86dd4e1ea348cd6990bf6a0e/68747470733a2f2f6e65776265652d6d616c6c2e6f73732d636e2d6265696a696e672e616c6979756e63732e636f6d2f706f737465722f70726f647563742f7365617263682e706e67)
+
+![cart](https://camo.githubusercontent.com/3f4ddcc7be352bef0946db2227fa5fceecd1954686ee56a2edfa1afe48bb8abb/68747470733a2f2f6e65776265652d6d616c6c2e6f73732d636e2d6265696a696e672e616c6979756e63732e636f6d2f706f737465722f70726f647563742f636172742e706e67)
+
+![settle](https://camo.githubusercontent.com/0d267eb8eb2c311fe32ccc7c62c059c875796a72a3541a570ed16548af95da36/68747470733a2f2f6e65776265652d6d616c6c2e6f73732d636e2d6265696a696e672e616c6979756e63732e636f6d2f706f737465722f70726f647563742f736574746c652e706e67)
+
+![orders](https://camo.githubusercontent.com/da3da6227ba89ac30c235269552c5cbb1234ea9364708d3ce686a8b2d76292f5/68747470733a2f2f6e65776265652d6d616c6c2e6f73732d636e2d6265696a696e672e616c6979756e63732e636f6d2f706f737465722f70726f647563742f6f72646572732e706e67)
+
+![settle](https://camo.githubusercontent.com/a1163de71279520d46502f4cb44eed94470b75def39a7e7a0ae90e48e97e29d7/68747470733a2f2f6e65776265652d6d616c6c2e6f73732d636e2d6265696a696e672e616c6979756e63732e636f6d2f706f737465722f70726f647563742f77782d7061792e706e67)
+
+标签：商城、电商
+
+## [novel-plus](https://github.com/201206030/novel-plus)
+
+![](https://img.shields.io/github/stars/201206030/novel-plus?style=for-the-badge) ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+
+基于`Spring Boot`+`Vue 3`开发的前后端分离学习型小说项目。该仓库是学习版本，还有一个微服务版本。
+
+![img](https://camo.githubusercontent.com/9989d65b280d1e15f77d53159f5d975078dcf362550b4316b70641b7b8c4398c/68747470733a2f2f73332e617831782e636f6d2f323032302f31322f32372f7235343030412e706e67)
+
+![img](https://camo.githubusercontent.com/3c46277e7b3155f093782ca3dde5044df1a26d6ca82413b8a5f5f8483aa87cde/68747470733a2f2f6f7363696d672e6f736368696e612e6e65742f6f73636e65742f75702d64306232653033313239626661653437623862623936613439316237336433383363352e706e67)
+
+![img](https://camo.githubusercontent.com/ac5832f0a09189d77fce4a70cf19b02cee0cfa0af70a5704cdb0f9f863c24ad3/68747470733a2f2f73332e617831782e636f6d2f323032302f31322f32372f7235544f38782e706e67)
+
+![img](https://camo.githubusercontent.com/00ab6cfcc1d4ea4056bacbbe0448af50e6fe36289e69958385e55f34ab9b4fe1/68747470733a2f2f6f7363696d672e6f736368696e612e6e65742f6f73636e65742f75702d65643566363839353537373138393234616361633736626333656263613336616663622e706e67)
+
+![img](https://camo.githubusercontent.com/c52e46ecb5f7086cf806069c15203a2bf83c193162d0e0233923563030bafb61/68747470733a2f2f6f7363696d672e6f736368696e612e6e65742f6f73636e65742f75702d37386435613638353836636439326138366336363933313166343134353038663932322e706e67)
+
+![img](https://camo.githubusercontent.com/c16030324d62fcd2611c6e1afb162b53ac53b54c94fe181583117c621da48698/68747470733a2f2f6f7363696d672e6f736368696e612e6e65742f6f73636e65742f75702d38626532343935613238363966393336323662306339633164663666333239373437612e706e67)
+
+标签：小说
+
 # 6 娱乐类
 
 ## 分类说明
@@ -311,6 +391,69 @@ V部落是一个多用户博客管理平台，采用`Vue`+`SpringBoot`开发。
 ![img](https://camo.githubusercontent.com/628ff200bde4763aaa94fb25bece74d3429ed90d1fc3af0ce8ddee6a039cb7f8/68747470733a2f2f692e6c6f6c692e6e65742f323031392f30332f32342f356339366530326539376166662e706e67)
 
 标签：`logo`、生成
+
+## [pua-lang](https://github.com/flaneur2020/pua-lang)
+
+![](https://img.shields.io/github/stars/flaneur2020/pua-lang?style=for-the-badge) ![](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324) ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+`Rust`编写的`PUA`编程语言。
+
+| Monkey | pua-lang | Explanation                                                  |
+| ------ | -------- | ------------------------------------------------------------ |
+| if     | 细分     | "specialization"                                             |
+| else   | 路径     | "pathway"                                                    |
+| while  | 闭环     | "closed loop"                                                |
+| true   | 三七五   | "3.75", a passing performance evalulation result             |
+| false  | 三二五   | "3.25", a failing performance evalulation result             |
+| let    | 赋能     | "empower"                                                    |
+| fn     | 抓手     | "handle", as in getting a handle on things                   |
+| return | 反哺     | "repay", used in Alibaba as a general term for feedback in systems |
+| Array  | 组合拳   | "combo move"; not yet a word in the language                 |
+| Hash   | 载体     | "carrier"; not yet a word in the language                    |
+| =      | 对齐     | "align"                                                      |
+| +      | 联动     | "linkage"                                                    |
+| -      | 差异     | "difference"                                                 |
+| /      | 倾斜     | "tilt"                                                       |
+| puts   | 输出     | "output"                                                     |
+| quit   | 淘汰     | "eliminate"                                                  |
+| (atoi) | 量化     | quantify                                                     |
+
+示例代码：
+
+```rust
+赋能 fib = 抓手(x) {
+  细分 (x 对齐 0) {
+    反哺 0;
+  }
+  细分 (x 对齐 1) {
+    反哺 1;
+  } 路径 {
+    反哺 fib(x - 1) 联动 fib(x - 2);
+  }
+};
+
+fib(10);
+```
+
+```rust
+细分 (三七五) {
+  10;
+} 路径 {
+  5;
+}
+```
+
+标签：`Rust`、抓手、赋能、闭环、三七五、三二五、路径、细分、反哺、组合拳、对齐、联动、差异、倾斜、输出、淘汰、量化
+
+## [git-blame-someone-else](https://github.com/jayphelps/git-blame-someone-else)
+
+![](https://img.shields.io/github/stars/jayphelps/git-blame-someone-else?style=for-the-badge) ![](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white) 
+
+如果你的代码有错误，你可以使用`git-blame-someone-else`责备别人：
+
+![ezgif-1396449034](https://cloud.githubusercontent.com/assets/762949/12863650/068e2820-cc2e-11e5-80c5-6ebdb71f51ea.gif)
+
+标签：`blame`
 
 # 7 awesome类
 
@@ -558,11 +701,19 @@ result = reader.readtext('chinese.jpg')
 
 标签：权限、认证、单点登录、`OAuth2.0`、鉴权
 
+## [easyexcel](https://github.com/alibaba/easyexcel)
+
+![](https://img.shields.io/github/stars/alibaba/easyexcel?style=for-the-badge) ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+阿里巴巴出品的`Java`解析`Excel`的库。
+
+标签：`Excel`
+
 # 9 美化类
 
 ## 分类说明
 
-此分类是一些美化相关的分类。
+此分类是一些美化相关的分类，包含美化教程以及主题等等。
 
 ## **[Cnblogs-Theme-SimpleMemory](https://github.com/BNDong/Cnblogs-Theme-SimpleMemory)**
 
@@ -595,6 +746,14 @@ result = reader.readtext('chinese.jpg')
 `Gridea`主题，笔者曾经用个，换个模糊背景就可以很好看了。
 
 标签：`Gridea`、主题、美化
+
+## [vim-colorschemes](https://github.com/flazz/vim-colorschemes)
+
+![](https://img.shields.io/github/stars/flazz/vim-colorschemes?style=for-the-badge) ![](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
+
+`Vim`主题合集。
+
+标签：`Vim`、主题
 
 # 10 Git类
 
@@ -629,6 +788,14 @@ result = reader.readtext('chinese.jpg')
 ![lx-music UI](https://github.com/lyswhut/lx-music-desktop/raw/master/doc/images/app.png)
 
 标签：音乐、`Electron`、`Vue`
+
+## [lx-music-mobile](https://github.com/lyswhut/lx-music-mobile)
+
+![](https://img.shields.io/github/stars/lyswhut/lx-music-mobile?style=for-the-badge) ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+
+洛雪音乐助手移动版，基于`React native`开发的音乐软件，只支持安卓。
+
+标签：音乐、`React native`、安卓、`Android`
 
 ## [CopyTranslator](https://github.com/CopyTranslator/CopyTranslator)
 
@@ -773,6 +940,58 @@ result = reader.readtext('chinese.jpg')
 
 标签：`JavaFX`、`Zookeeper`、`Apache Curator`、客户端
 
+## [loki](https://github.com/grafana/loki)
+
+![](https://img.shields.io/github/stars/grafana/loki?style=for-the-badge) ![](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white) ![](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+面向日志的"`Prometheus`"，高伸缩性以及高可用的日志聚合系统。
+
+![Loki Logo](https://github.com/grafana/loki/raw/main/docs/sources/logo_and_name.png)
+
+标签：日志、收集、聚合
+
+## [MyPerf4J](https://github.com/LinShunKang/MyPerf4J)
+
+![](https://img.shields.io/github/stars/LinShunKang/MyPerf4J?style=for-the-badge) ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white0)
+
+一个针对高并发、低延迟应用设计的高性能 Java 性能监控和统计工具。
+
+![Markdown](https://raw.githubusercontent.com/LinShunKang/Objects/master/MyPerf4J-InfluxDB-Method_Show_Operation.gif)
+
+![Markdown](https://github.com/LinShunKang/Objects/raw/master/images/JVM_Metrics_Dashboard_V2.png?raw=true)
+
+标签：性能监控、统计、高并发、低延迟
+
+## [arthas](https://github.com/alibaba/arthas)
+
+![](https://img.shields.io/github/stars/alibaba/arthas?style=for-the-badge) ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white0) ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+阿里巴巴开源的`Java`诊断工具。
+
+![dashboard](https://github.com/alibaba/arthas/raw/master/site/src/site/sphinx/_static/dashboard.png)
+
+标签：诊断工具
+
+## [OpenRGB](https://github.com/CalcProgrammer1/OpenRGB)
+
+![](https://img.shields.io/github/stars/CalcProgrammer1/OpenRGB?style=for-the-badge) ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+
+`RGB`灯效控制工具，支持`Win`、`Mac`、`Linux`。
+
+![OpenRGB_Device_View](https://camo.githubusercontent.com/7cf03aed3fb912dd97d50bbb250d2a9f1bb5caf691995340fb895d7052a77703/68747470733a2f2f6769746c61622e636f6d2f43616c6350726f6772616d6d6572312f4f70656e5247422f2d2f77696b69732f75706c6f6164732f65316438643436303365636464303466316163626366366232333134666336362f4f70656e5247425f302e33315f4465766963655f566965772e504e47)
+
+标签：`RGB`
+
+## [slidev](https://github.com/slidevjs/slidev)
+
+![](https://img.shields.io/github/stars/slidevjs/slidev?style=for-the-badge) ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D) ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+面向开发者的演示文稿工具，能够以`Markdown`的方式编写`PPT`。
+
+![](./img/11.png)
+
+标签：`PPT`
+
 # 12 简历类
 
 ## 分类说明
@@ -790,6 +1009,20 @@ result = reader.readtext('chinese.jpg')
 ![image-20220604234157910](./img/3.png)
 
 标签：简历
+
+## [react-resume-site](https://github.com/hua1995116/react-resume-site)
+
+![](https://img.shields.io/github/stars/hua1995116/react-resume-site?style=for-the-badge) ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+木及简历，一款用`Markdown`就能写出好看简历的在线工具，[在线体验](https://www.mujicv.com/)。
+
+![image](https://user-images.githubusercontent.com/12070073/134211577-ce58db6c-bfde-4af9-b73a-a5948e98481a.png)
+
+![image](https://user-images.githubusercontent.com/12070073/134211433-72dfbd88-ebc2-4fb1-bb35-675a624dbfce.png)
+
+![image](https://user-images.githubusercontent.com/12070073/134211967-9457fbb0-67b2-4f5d-b3b1-41cbc9b74532.png)
+
+标签：简历、`Markdown`
 
 # 13 配置文件类
 
@@ -821,6 +1054,14 @@ result = reader.readtext('chinese.jpg')
 
 标签：`Git`、`.gitignore`
 
+## [mysql_best_configuration](https://github.com/jdaaaaaavid/mysql_best_configuration)
+
+![](https://img.shields.io/github/stars/jdaaaaaavid/mysql_best_configuration?style=for-the-badge) ![](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+`MySQL`配置文件。
+
+标签：`MySQL`
+
 # 14 思考类
 
 ## 分类说明
@@ -843,7 +1084,13 @@ result = reader.readtext('chinese.jpg')
 
 ## 分类说明
 
-此分类包含算法类相关仓库。
+此分类包含算法类相关仓库，包含：
+
+- `LeetCode`题解
+- 用某语言实现的各种算法
+- 一些特别的算法
+
+等等。
 
 ## [leetcode](https://github.com/doocs/leetcode)
 
@@ -869,6 +1116,36 @@ result = reader.readtext('chinese.jpg')
 
 标签：算法、数据结构
 
+## [zstd](https://github.com/facebook/zstd)
+
+![](https://img.shields.io/github/stars/facebook/zstd?style=for-the-badge) ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white) ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
+
+`Facebook`出品的压缩算法`zstd`，比较如下：
+
+| Compressor name         | Ratio | Compression | Decompress. |
+| ----------------------- | ----- | ----------- | ----------- |
+| **zstd 1.5.1 -1**       | 2.887 | 530 MB/s    | 1700 MB/s   |
+| [zlib] 1.2.11 -1        | 2.743 | 95 MB/s     | 400 MB/s    |
+| brotli 1.0.9 -0         | 2.702 | 395 MB/s    | 450 MB/s    |
+| **zstd 1.5.1 --fast=1** | 2.437 | 600 MB/s    | 2150 MB/s   |
+| **zstd 1.5.1 --fast=3** | 2.239 | 670 MB/s    | 2250 MB/s   |
+| quicklz 1.5.0 -1        | 2.238 | 540 MB/s    | 760 MB/s    |
+| **zstd 1.5.1 --fast=4** | 2.148 | 710 MB/s    | 2300 MB/s   |
+| lzo1x 2.10 -1           | 2.106 | 660 MB/s    | 845 MB/s    |
+| [lz4] 1.9.3             | 2.101 | 740 MB/s    | 4500 MB/s   |
+| lzf 3.6 -1              | 2.077 | 410 MB/s    | 830 MB/s    |
+| snappy 1.1.9            | 2.073 | 550 MB/s    | 1750 MB/s   |
+
+标签：压缩、算法
+
+## **[leetcode-master](https://github.com/youngyangyang04/leetcode-master)**
+
+![](https://img.shields.io/github/stars/youngyangyang04/leetcode-master?style=for-the-badge) ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324) ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white) ![](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white) ![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+`LeetCode`刷题攻略，200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持`C++`，`Java`，`Python`，`Go`，`JavaScript`等多语言版本。
+
+标签：`LeetCode`
+
 # 16 安全类
 
 ## 分类说明
@@ -883,3 +1160,110 @@ result = reader.readtext('chinese.jpg')
 
 标签：安全、用户名、密码、`webshell`、`payload`、`pattern-matching`
 
+## [secguide](https://github.com/Tencent/secguide)
+
+![](https://img.shields.io/github/stars/Tencent/secguide?style=for-the-badge) 
+
+面向开发人员梳理的代码安全指南。
+
+标签：代码安全
+
+# 17 `API`类
+
+## 分类说明
+
+该分类包含一些公共的`API`合集。
+
+## [public-apis](https://github.com/public-apis/public-apis)
+
+![](https://img.shields.io/github/stars/public-apis/public-apis?style=for-the-badge) ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+免费的`API`列表合集。
+
+标签：`API`
+
+# 18 技巧类
+
+## 分类说明
+
+该分类包含阐述日常中容易忽略的使用技巧等仓库。
+
+## [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line)
+
+![](https://img.shields.io/github/stars/jlevy/the-art-of-command-line?style=for-the-badge) 
+
+命令行的艺术，阐述了很多使用命令行的技巧。
+
+![curl -s 'https://raw.githubusercontent.com/jlevy/the-art-of-command-line/master/README.md' | egrep -o '\w+' | tr -d '`' | cowsay -W50](https://github.com/jlevy/the-art-of-command-line/raw/master/cowsay.png)
+
+标签：命令行、技巧
+
+# 19 成长路线类
+
+## 分类说明
+
+该分类包含了一些岗位或某项技术的成长路线。
+
+## [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+
+![](https://img.shields.io/github/stars/kamranahmedse/developer-roadmap?style=for-the-badge) ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+社区驱动的为开发者准备的成长路线图、文章以及资源。
+
+![img](https://roadmap.sh/roadmaps/java.png)
+
+![DevOps Roadmap](https://roadmap.sh/roadmaps/devops.png)
+
+标签：路线图
+
+# 20 财富类
+
+## 分类说明
+
+该分类教你如何搞更多的Money。
+
+## [howto-make-more-money](https://github.com/easychen/howto-make-more-money)
+
+![](https://img.shields.io/github/stars/easychen/howto-make-more-money?style=for-the-badge) ![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+程序员如何优雅的挣零花钱？
+
+![img](https://github.com/easychen/howto-make-more-money/raw/master/cover.png)
+
+标签：钱
+
+# 21 定时任务类
+
+## 分类说明
+
+该分类包含一些定时任务相关的仓库。
+
+## [quarkus-quickstarts](https://github.com/quarkusio/quarkus-quickstarts)
+
+![](https://img.shields.io/github/stars/quarkusio/quarkus-quickstarts?style=for-the-badge) ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+`Quarkus`快速开始代码。
+
+标签：`Quarkus`
+
+# 22 面试类
+
+## 分类说明
+
+该分类包含面试相关的仓库。
+
+## [interview_internal_reference](https://github.com/0voice/interview_internal_reference)
+
+![](https://img.shields.io/github/stars/0voice/interview_internal_reference?style=for-the-badge) ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+
+2021年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。持续更新中。
+
+标签：面试题
+
+## [JavaGuide](https://github.com/Snailclimb/JavaGuide)
+
+![](https://img.shields.io/github/stars/Snailclimb/JavaGuide?style=for-the-badge) ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+「`Java`学习+面试指南」一份涵盖大部分`Java`程序员所需要掌握的核心知识。准备`Java`面试，首选 `JavaGuide`！
+
+标签：面试
